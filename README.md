@@ -63,10 +63,10 @@ github点赞地址：https://github.com/ikym/ysfaka  记得Star! 记得Star! 记
 ----------------------------------------------------------------------------
 
 程序说明：  
-程序大小：3.0M 
+程序大小：3.0M  
 开发语言：php7.0 + BootStrap + amaze ui +Jquery  
 使用要求：php版本>=5.6 mysql版本>=5.2  
-服务器建议：Debian8 + 宝塔 +Nginx  
+服务器建议：Debian8 + LNMP  
 后台地址：http://你的域名/ysmd 
 
 
